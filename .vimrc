@@ -1,4 +1,5 @@
 set term=builtin_ansi
+set bg=dark
 set number
 filetype plugin indent on
 syntax on
