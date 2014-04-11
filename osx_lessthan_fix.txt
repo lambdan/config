@@ -1,0 +1,22 @@
+< and § wrong place fix for OSX
+
+Put 
+
+<item>
+<name>test</name>
+<identifier>private.test</identifier>
+<autogen>--KeyToKey-- KeyCode::DANISH_DOLLAR, KeyCode::BACKQUOTE</autogen>
+<autogen>--KeyToKey-- KeyCode::BACKQUOTE, KeyCode::DANISH_DOLLAR</autogen>
+</item>
+
+inside Keyremap4Macbook private.xml, for example:
+
+<?xml version="1.0"?>
+<root>
+<item>
+<name>test</name>
+<identifier>private.test</identifier>
+<autogen>--KeyToKey-- KeyCode::DANISH_DOLLAR, KeyCode::BACKQUOTE</autogen>
+<autogen>--KeyToKey-- KeyCode::BACKQUOTE, KeyCode::DANISH_DOLLAR</autogen>
+</item>
+</root>
