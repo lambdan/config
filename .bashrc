@@ -1,5 +1,5 @@
 # bashrc for use with cygwin. make sure you have setup_x86-64 in Downloads folder at home
-# install these packages: cygrunsrv, openssh, wget, nano, vim, screen
+# install these packages: cygrunsrv, openssh, wget, nano, vim, screen, ncurses
 
 
 alias apt-cyg='~/Downloads/setup_x86-64.exe -q -P'
