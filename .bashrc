@@ -4,7 +4,7 @@
 
 alias apt-cyg='~/Downloads/setup_x86-64.exe -q -P'
 alias ls='ls --color=auto'
-alias sshvps='ssh 46.16.232.23 -p 43611'
+alias sshvps='ssh 46.16.232.23 -p x'
 
 #alias slt='"/cygdrive/c/Program Files (x86)/Sublime Text 3/sublime_text.exe"'
 
