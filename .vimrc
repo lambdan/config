@@ -6,7 +6,6 @@ filetype indent on
 " show filename in tmux tabs
 autocmd BufReadPost,FileReadPost,BufNewFile * call system("tmux rename-window " . expand("%")) 
 
-<<<<<<< HEAD
 " show syntax
 syntax enable
 
@@ -24,13 +23,3 @@ set expandtab
 set shiftwidth=2
 set softtabstop=2
 
-=======
-set tabstop=4
-set shiftwidth=4
-set softtabstop=4
-set expandtab
-
-" cygwin backspace fix
-" set nocompatible
-" set backspace=2
->>>>>>> FETCH_HEAD
