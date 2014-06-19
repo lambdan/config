@@ -2,6 +2,7 @@
 
 # install homebrew(brew)
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+brew doctor
 brew install wget
 brew install ssh-copy-id
 
