@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+alias livestream="livestreamer --http-header Client-ID=jzkbprff40iqj646a697cyrvl0zt2m6"
 alias slt='open -a "Sublime Text"'
 alias sshvps='ssh lambdan.se -p x'
 DARKBLUE='\033[0;34m'
