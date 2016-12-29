@@ -6,6 +6,8 @@ alias sshvps='ssh lambdan.se -p x'
 DARKBLUE='\033[0;34m'
 export EDITOR=vim
 
+twitch () { livestream twitch.tv/$@ best; } 
+
 function psgrep()
 {
                 ps aux | grep -e $1
