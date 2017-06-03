@@ -1,0 +1,14 @@
+BoldAsFont=no
+Transparency=off
+BellSound=yes
+CursorType=block
+Font=Consolas
+FontHeight=12
+Locale=sv_SE
+Charset=UTF-8
+RightClickAction=paste
+CursorBlinks=no
+Term=xterm-256color
+
+Blue=127,127,255
+BoldBlue=191,191,255
